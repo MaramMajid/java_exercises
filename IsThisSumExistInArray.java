@@ -19,8 +19,8 @@ public class IsThisSumExistInArray {
        int[] Array={1,3,8,9,3,5,10,3};//this is the array of ints 
        
       System.out.println("The first way,Is this sum exist ?"+FirstWay(Array,8));
-     System.out.println("The second way , Is this sum exist ?"+FirstWay(Array,8));
-     System.out.println("The Third way , Is this sum exist ?"+FirstWay(Array,8));
+     System.out.println("The second way , Is this sum exist ?"+secondWay(Array,8));
+     System.out.println("The Third way , Is this sum exist ?"+ThirdWay(Array,8));
        
     }
        public static boolean  FirstWay(int A[],int sum ) {//here i will use the traditional way to solve is problem using nested for loop
