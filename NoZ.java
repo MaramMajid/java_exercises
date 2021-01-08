@@ -8,10 +8,6 @@ package noz;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author maram
- */
 public class NoZ {
 
     /**
